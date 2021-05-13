@@ -1,0 +1,217 @@
+body{
+  margin: 0;
+  hsl(0, 0%, 95%);
+
+}
+
+
+
+.container1{
+
+  background-color: hsl(31, 77%, 52%);
+  display: inline-block;
+  width: 350px;
+  height: 525px;
+  border-radius: 8px 0px 0px 8px;
+position: relative;
+margin: 0;
+left: 385px;
+  top: 200px;
+
+
+}
+.sed{
+  background-color: hsl(31, 77%, 52%);
+  display: inline-block;
+  position: absolute;
+  left: 75px;
+  top: 120px;
+
+    margin: 0px 0px 0px 0px;
+
+}
+.para{
+  background-color:hsl(31, 77%, 52%) ;
+display: inline-block;
+  position: absolute;
+left: 75px;
+   top: 240px;
+  margin: 0px 0px 0px 0px;
+
+
+}
+.but{
+  background-color: hsl(31, 77%, 52%);
+  display: inline-block;
+
+    position: absolute;
+    left:100px;
+    bottom: 50px;
+
+
+}
+
+.b{
+  height: 40px;
+  width: 120px;
+  border-radius: 40px;
+  border: none;
+padding: 0;
+  background-color:hsl(0, 0%, 95%) ;
+  color: hsl(31, 77%, 52%) ;
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 400;
+
+}
+.img{
+  position: absolute;
+  left: 75px;
+ top:60px;
+}
+
+.container2{
+  background-color: hsl(184, 100%, 22%);
+  display: inline-block;
+  width: 350px;
+  height: 525px;
+  border-radius: 0;
+  position: relative;
+  left: 380px;
+  top: 200px;
+  margin: 0;
+
+
+}
+.suv{
+  background-color: hsl(184, 100%, 22%);
+
+  display: inline-block;
+  position: absolute;
+  left: 75px;
+  top: 120px;
+
+    margin: 0px 0px 0px 0px;
+
+}
+.para2{
+  background-color: hsl(184, 100%, 22%);
+display: inline-block;
+  position: absolute;
+  left: 75px;
+  top: 240px;
+  margin: 0px 0px 0px 0px;
+
+
+}
+.but2{
+  background-color: hsl(184, 100%, 22%);;
+  display: inline-block;
+
+    position: absolute;
+    left:100px;
+    bottom: 50px;
+
+
+}
+
+.b2{
+  height: 40px;
+  width: 120px;
+  border-radius: 40px;
+  border: none;
+padding: 0;
+  background-color:hsl(0, 0%, 95%) ;
+  color: hsl(184, 100%, 22%); ;
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 400;
+
+}
+.img2{
+  position: absolute;
+  left: 75px;
+ top:60px;
+}
+
+.container3{
+  background-color: hsl(179, 100%, 13%);
+  display: inline-block;
+  width: 350px;
+  margin: 0;
+  height: 525px;
+  border-radius: 0px 8px 8px 0px;
+ position: relative;
+  left: 375px;
+  top: 200px;
+  
+
+}
+
+
+.lux{
+  background-color: hsl(179, 100%, 13%);
+  display: inline-block;
+  position: absolute;
+  left: 75px;
+  top: 120px;
+
+    margin: 0px 0px 0px 0px;
+
+}
+
+
+
+.para3{
+  background-color: hsl(179, 100%, 13%);
+display: inline-block;
+  position: absolute;
+  left: 75px;
+  top: 240px;
+  margin: 0px 0px 0px 0px;
+
+
+}
+
+
+.but3{
+  background-color:  hsl(179, 100%, 13%);
+  display: inline-block;
+
+    position: absolute;
+    left:100px;
+    bottom: 50px;
+
+
+}
+
+.b3{
+  height: 40px;
+  width: 120px;
+  border-radius: 40px;
+  border: none;
+padding: 0;
+  background-color:hsl(0, 0%, 95%) ;
+  color: hsl(179, 100%, 13%) ;
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 400;
+
+}
+
+.img3{
+  position: absolute;
+  left: 75px;
+ top:60px;
+}
+
+h1{
+  font-family: 'Big Shoulders Display',cursive ;
+  font-weight: 700;
+font-size: 3em;
+  color: hsl(0, 0%, 95%);
+}
+
+p{
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  color: hsl(0, 0%, 95%);
+}
